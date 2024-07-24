@@ -1,0 +1,5 @@
+# C:\xampp\htdocs\htaccess_control\private\.htaccess
+
+# Deny all access to the private directory
+Order Allow,Deny
+Deny from all

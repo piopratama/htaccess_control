@@ -1,0 +1,4 @@
+<?php
+echo "Malicious code executed!";
+phpinfo(); // Display PHP configuration for demonstration purposes
+?>
